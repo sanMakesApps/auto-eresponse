@@ -6,7 +6,7 @@ Automatically generate email replies tailored to your tone (professional, friend
 Once set up, the component is triggered when you want to reply to an email.
 
 <p align="center">
-  <img src="./assets/e-replybotdemo.gif" alt="AI email generation demo" width="600"/>
+  <img src="./assets/screenrecord.gif" alt="AI email generation demo" width="600"/>
 </p>
 
 ---
@@ -21,8 +21,8 @@ Once set up, the component is triggered when you want to reply to an email.
 ---
 ## 📸 Frontend UI  
 <div align="center">
-  <img src="./assets/e-replybot1.PNG" alt="React UI" width="45%"/>
-  <img src="./assets/e-replybot2.PNG" alt="Extension" width="45%"/>
+  <img src="./assets/screenshot1.png" alt="React UI" width="45%"/>
+  <img src="./assets/screenshot2.png" alt="Extension" width="45%"/>
 </div>
 ---
 
